@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/bibekshah220/backend-ai-masterclass#readme",
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^5.2.1"
   }
 }
